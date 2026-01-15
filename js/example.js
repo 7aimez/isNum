@@ -1,6 +1,3 @@
-script.js
-
-
 var num = 5;
 var not_num = "hello";
 
