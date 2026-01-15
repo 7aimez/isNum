@@ -4,7 +4,8 @@ script.js
 var num = 5;
 var not_num = "hello";
 
-function isNum(value){if(value-value==0){return true;}else{return false;};};
+// isNum Function
+function isNum(v){if(v-v==0){return true;}else{return false;};};
 
 // num
 if (isNum(num)) {
